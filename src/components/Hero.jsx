@@ -88,16 +88,16 @@ const Hero = () => {
             Some doors, once opened, can never be closed.
           </motion.p>
           <motion.button className="st-btn" variants={item}>
-            Enter the Upside Down
+            VISHNU PRIYA P G
           </motion.button>
         </motion.div>
 
         <motion.div className="right" variants={item}>
           <h1 className="st-title">The Mind Flayer</h1>
           <motion.p className="st-text" variants={item}>
-            Shadows creep from another dimension, consuming everything in their path.
-            Unravel the mystery and face the darkness head-on.
-            Will you survive the terror of the Upside Down?
+            Eleven: “I can feel it… something’s wrong in Hawkins.”
+Mike: “We’ll face it together, El. You’re not alone.”
+Eleven: “Then let’s stop it… before it’s too late.”
           </motion.p>
         </motion.div>
       </motion.div>
