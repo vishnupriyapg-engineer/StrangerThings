@@ -83,9 +83,9 @@ const Hero = () => {
             STRANGER<br />THINGS
           </h1>
           <motion.p className="st-desc" variants={item}>
-            When the lights begin to flicker and reality bends,
-            a hidden world awakens beneath Hawkins.
-            Some doors, once opened, can never be closed.
+            Eleven: “I can feel it… something’s wrong in Hawkins.”
+Mike: “We’ll face it together, El. You’re not alone.”
+Eleven: “Then let’s stop it… before it’s too late.”
           </motion.p>
           <motion.button className="st-btn" variants={item}>
             VISHNU PRIYA P G
